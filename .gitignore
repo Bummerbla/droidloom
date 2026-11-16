@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+app_names.json
+launcher_settings.json
+AGENTS.md
+sources/
+.DS_Store
+Thumbs.db
